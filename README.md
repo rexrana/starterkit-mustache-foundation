@@ -1,2 +1,2 @@
-# starterkit-mustache-foundation
-A Foundation starter kit for Pattern Lab
+# starterkit-twig-foundation
+A Foundation starter kit for Pattern Lab and Twig
